@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Shitunjayk
-- 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning DevOps
+- 👋 Hi, I’m Shitunjay 
+- 👀 I’m interested in Cloud Computing and DevOps
+- 🌱 I’m currently working as DevOps Specialist
 - 💞️ I’m looking to collaborate on DevOps Projects
 - 📫 How to reach me shitunjayk@gmail.com
 
