@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Shitunjay Kumar Nishad, a DevOps specialist with over 1 year of experience in Cloud Infrastructure (AWS, GCP), SCM (Ansible), CI/CD (Jenkins, Azure DevOps, Gitlab), Virtualization (Docker), Monitoring(Prometheus/Grafana), and Linux. 
+I'm Shitunjay Kumar Nishad, DevOps specialist with over 2 years of experience in Cloud Infrastructure (AWS, GCP), SCM (Ansible), CI/CD (Jenkins, Azure DevOps, Gitlab), Containerization (Docker), Container Orchestration(Kubernetes) ,Monitoring(Prometheus/Grafana), and Linux. 
 
 ## Technical Skills
 
@@ -9,9 +9,9 @@ I'm Shitunjay Kumar Nishad, a DevOps specialist with over 1 year of experience i
 - System Monitoring: Prometheus/Grafana
 - System Logging: EFK/ELK Stack
 - Scripting Languages: Bash
-- Continuous Integration: Jenkins, Azure DevOps, Gitlab CICD
+- CICD: Jenkins, Azure DevOps, Gitlab CICD
 - SCM: Ansible
-- Web Server: Nginx, Apache2
+- Web Server: Nginx
 - Version Control: Git, Github, Gitlab
 - Operating System: Linux (Ubuntu & CentOS)
 - Build Tool: Maven
